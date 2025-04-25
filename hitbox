@@ -1,0 +1,5 @@
+Player (CharacterBody2D)
+├── Sprite
+├── CollisionShape2D
+└── SwordHitbox (Area2D)
+     └── CollisionShape2D
